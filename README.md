@@ -1,4 +1,4 @@
-# Here reside the data and scripts neccessary to generate the figures and stats for 
+# Here reside the data and scripts necessary to generate the figures and stats for 
 
 Canino-Koning, Rosangela, Michael J Wiser, and Charles Ofria. “Changing Environments Alter the Mutational Landscape in Digital Organisms.” 
 
