@@ -10,4 +10,4 @@ The best place to start are in the Jupyter Notebooks:
 
 Figures - https://github.com/voidptr/alife2016/blob/master/Figures%20for%20Changing%20Environments%20ALife%20Paper.ipynb
 
-Stats - https://github.com/voidptr/alife2016/blob/master/Changing%20Environments%20-%20Functional%20and%20Vestigial%20Sites.ipynb
+Stats - https://github.com/voidptr/alife2016/blob/master/Changing%20Environments%20-%20Stats.ipynb
